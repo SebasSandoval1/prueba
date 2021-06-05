@@ -19,6 +19,9 @@ public class Prueba {
         System.out.println("Hola Gente");
         System.out.println("Brrrrrrrr");
         System.out.println("nanix");
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
     
 }
